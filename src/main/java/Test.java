@@ -9,5 +9,6 @@ public class Test {
         System.out.println("first -test ");
         System.out.println("SECOND -test");
         System.out.println("third -test ");
+        System.out.println("third -test hot-fix ");
     }
 }

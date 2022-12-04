@@ -13,5 +13,6 @@ public class Test {
         System.out.println("third -test master first ");
         System.out.println("third -test hot-fix second");
         System.out.println("master test commit-push");
+        System.out.println("master test git-pull");
     }
 }
